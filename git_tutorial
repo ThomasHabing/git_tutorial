@@ -1,2 +1,4 @@
 print ('get me out of the vim')
 
+def cal_this(cool):
+  print(cool)
